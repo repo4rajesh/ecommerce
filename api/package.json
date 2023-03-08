@@ -84,7 +84,7 @@
         "@types/lusca": "^1.6.0",
         "@types/passport": "^1.0.0",
         "@types/paypal-rest-sdk": "^1.7.4",
-        "apidoc": "^0.29.0",
+        "apidoc": "^0.54.0",
         "array-to-tree": "^3.3.0",
         "aws-sdk": "^2.391.0",
         "bcrypt": "^5.0.0",
