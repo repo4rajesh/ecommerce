@@ -145,7 +145,7 @@
         "node-xlsx": "^0.15.0",
         "nodemailer": "^6.7.2",
         "nodemailer-smtp-transport": "^2.7.4",
-        "nodemon": "^2.0.15",
+        "nodemon": "^3.0.0",
         "nps": "^5.9.12",
         "nps-utils": "^1.7.0",
         "parse-int": "^1.0.3",
