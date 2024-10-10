@@ -110,7 +110,7 @@
         "express-ejs-layouts": "^2.5.0",
         "express-flash": "0.0.2",
         "express-graphql": "^0.12.0",
-        "express-mysql-session": "^2.1.4",
+        "express-mysql-session": "^3.0.0",
         "express-session": "^1.16.2",
         "express-status-monitor": "^1.2.8",
         "express-useragent": "^1.0.15",
